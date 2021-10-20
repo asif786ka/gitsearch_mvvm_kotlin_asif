@@ -1,0 +1,5 @@
+rootProject.name = "GitSearchMVVMAsif"
+include ':common'
+include ':domain'
+include ':data'
+include ':ui'
